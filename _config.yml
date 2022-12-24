@@ -9,8 +9,11 @@ relative_links:
     - README.md
 include:
   - index.md
-  - test.md
+  - apps/index.md
+  - apps/internet-browsers.md
+  - apps/winzip.md
 header_pages:
-  - test.md
+  - index.md
+  - apps/index.md
 
 theme: minima
