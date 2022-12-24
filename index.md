@@ -2,6 +2,7 @@
 permalink: /
 ---
 
+# IT Helpdesk
 Welcome to IT Helpdesk!
 
 # Table of Contents

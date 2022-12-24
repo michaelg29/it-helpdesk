@@ -2,8 +2,8 @@
 permalink: /apps/
 ---
 
-# Applications
+## Applications
 
-## Table of Contents
-### [Internet browsers](./internet-browsers.md)
-### [WinZip](./winzip.md)
+### Table of Contents
+# [Internet browsers](./internet-browsers.md)
+# [WinZip](./winzip.md)
