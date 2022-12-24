@@ -9,3 +9,8 @@ Welcome to IT Helpdesk!
 ## [Applications](./apps/index.md)
 ### [Internet browsers](./apps/internet-browsers.md)
 ### [WinZip](./apps/winzip.md)
+
+# About this site
+## Notation
+* Text displayed in monospace and bolded displays keystrokes (e.g. **`Ctrl+B`**)
+
