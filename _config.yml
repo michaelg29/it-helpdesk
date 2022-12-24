@@ -13,7 +13,6 @@ include:
   - apps/internet-browsers.md
   - apps/winzip.md
 header_pages:
-  - index.md
   - apps/index.md
 
 theme: minima
