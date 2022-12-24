@@ -1,13 +1,12 @@
 title: IT Helpdesk
-author:
-  name: Michael Grieco
-  email: 30534878+michaelg29@users.noreply.github.com
 
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
+  exclude:
+    - README.md
 include:
   - index.md
   - test.md
