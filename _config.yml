@@ -8,12 +8,12 @@ relative_links:
   exclude:
     - README.md
 include:
-  - index.md
-  - apps/index.md
-  - apps/internet-browsers.md
-  - apps/winzip.md
+  - pages/index.md
+  - pages/apps/index.md
+  - pages/apps/internet-browsers.md
+  - pages/apps/winzip.md
 header_pages:
-  - apps/index.md
+  - pages/apps/index.md
 author:
   name: Michael Grieco
 host_info:
