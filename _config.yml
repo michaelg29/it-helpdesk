@@ -14,5 +14,11 @@ include:
   - apps/winzip.md
 header_pages:
   - apps/index.md
+author:
+  name: Michael Grieco
+host_info:
+  name: GitHub Pages
+  link: "https://github.com/michaelg29/it-helpdesk"
+  suggestion_link: "https://github.com/michaelg29/it-helpdesk/issues/new"
 
 theme: minima
