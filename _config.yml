@@ -16,6 +16,7 @@ header_pages:
   - pages/apps/index.md
 author:
   name: Michael Grieco
+  link: "https://michaelg29.github.io"
 host_info:
   name: GitHub Pages
   link: "https://github.com/michaelg29/it-helpdesk"

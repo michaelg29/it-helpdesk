@@ -8,7 +8,7 @@
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
+            <li class="p-name">Created by <a href="{{ site.author.link | escape }}" target="_blank">{{ site.author.name | escape }}</a></li>
           {% endif -%}
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
@@ -17,7 +17,7 @@
       {%- endif %}
       </div>
       <div class="footer-col">
-      {%- if site.host_info.name %}
+      {%- if site.host_info %}
         <p>Hosted using <a href="{{ site.host_info.link }}" target="_blank">{{ site.host_info.name }}</a></p>
       {%- endif %}
       </div>
