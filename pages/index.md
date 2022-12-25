@@ -9,6 +9,7 @@ Welcome to IT Helpdesk!
 ## [Applications](./apps/index.md)
 ### [Internet browsers](./apps/internet-browsers.md)
 ### [WinZip](./apps/winzip.md)
+This encompasses how to compress and decompress files using the application, WinZip.
 
 # About this site
 ## Notation
